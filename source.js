@@ -1,3 +1,3 @@
 (function () {
-	console.log('HayLow world!');
+	console.log('HayLow no git world!');
 })();
